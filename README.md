@@ -11,12 +11,12 @@ phrase.  Attributes:
 
 Multiple states:
 
-*init*: Phrase is shown fully jumbled with a `Hint` button.
+**init**: Phrase is shown fully jumbled with a `Hint` button.
 
-*hinted*: Phrase is still shown jumbled but word boundaries are
+**hinted**: Phrase is still shown jumbled but word boundaries are
 shown and category is also shown.  Button shows `Solve`.
 
-*solved*: Phrase is shown unjumbled with category.  No button.
+**solved**: Phrase is shown unjumbled with category.  No button.
 
 
 CSS needs work.
