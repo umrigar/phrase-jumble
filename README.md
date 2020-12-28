@@ -1,5 +1,5 @@
-# word-jumble
-Word Jumble HTML Component
+# phrase-jumble
+Phrase Jumble HTML Component
 
 Simple HTML component `<jumble-phrase>` which displays a jumbled-up
 phrase.  Attributes:
