@@ -1,0 +1,38 @@
+:root {
+  --base-color: 0, 0, 192;
+  --color09: rgb(var(--base-color));
+  --color01: rgba(var(--base-color), 0.05);
+  --color02: rgba(var(--base-color), 0.1);
+  --color03: rgba(var(--base-color), 0.15);
+  --color04: rgba(var(--base-color), 0.3);
+  --max-width: 800px;
+}
+
+body {
+  color: var(--color09);
+  background-color: var(--color01);
+  max-width: var(--max-width);
+  font-size: 24pt;
+}
+
+em {
+  //font-family: 'Kaushan Script', cursive;
+  font-weight: bold;
+}
+  
+
+h1 {
+  text-align: center;
+}
+
+.jumble-list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.jumble-list li {
+}
+
+button {
+  padding: 4em;
+}
