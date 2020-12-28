@@ -18,5 +18,8 @@ shown and category is also shown.  Button shows `Solve`.
 
 **solved**: Phrase is shown unjumbled with category.  No button.
 
+[Example on github pages](https://umrigar.github.io/phrase-jumble/)
+
+## Status
 
 CSS needs work.
